@@ -1,2 +1,5 @@
-# DocC-Tutorial-for-Swift-Automating-Publishing-With-GitHub-Actions
-Learn how to automate export a Docc archive file using GitHub Actions, and publish it on the internet using GitHub Pages as a static website host.
+# DocC Tutorial for Swift: Automating Publishing With GitHub Actions
+
+| Platform | Language | Editor |
+| --- | --- | --- |
+| iOS 16 | Swift 5.7 | Xcode 14 |
